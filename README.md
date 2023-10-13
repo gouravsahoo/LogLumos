@@ -29,5 +29,5 @@ In the final hours before the submission deadline, we embarked on a coding frenz
 
 Questions? Feel free to reach out to any of us at
 - [Adarsh Lal](https://github.com/anonymous08black)
-- [Gourav Kumar Sahoo](https://github.com/gouravsahoo)
-- [Ashutosh Panda](https://github.com/AshutoshPanda2002) (<--- This me. Just in case some bloke couldn't figure it out.)
+- [Gourav Kumar Sahoo](https://github.com/gouravsahoo) (<--- This me. 😊)
+- [Ashutosh Panda](https://github.com/AshutoshPanda2002) 
